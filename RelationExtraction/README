@@ -1,0 +1,15 @@
+Name : Prasad Marla
+SBUID: 110873721
+
+
+FIles Included:
+generate_arff.py : Contains bag of words based features and tokenized features 
+DependencyParse.py : Contains dependency based features.
+brown.py : Clustering based features
+Regex.py : Manual regex extractor
+
+
+
+
+
+
